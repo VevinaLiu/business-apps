@@ -1,2 +1,2 @@
 # business-apps
-Apps developed for my work
+This repository contains apps I developed in my work as an accountant.
