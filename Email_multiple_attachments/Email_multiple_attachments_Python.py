@@ -48,7 +48,6 @@ for j in range(len(addr.Code)):
         print(addr.Code[j].astype("str"))
         for i in filename:
             if i[0:4] == sub_code:
-                print(os.path.join(dirpath,i))
                 dirlist.append(os.path.join(dirpath,i))
                 
     sendmail(addr["add"][j], dirlist, subjects)
