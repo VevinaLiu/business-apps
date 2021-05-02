@@ -1,5 +1,5 @@
 # business-apps
-This repository contains apps I developed in my work as an accountant.
+This repository contains apps I developed in my work.
 
 01 Email_multiple_attachments: VBA & Python programs used to send emails with multiple attahments (reports, invoices, etc.) for each receiver.
 
